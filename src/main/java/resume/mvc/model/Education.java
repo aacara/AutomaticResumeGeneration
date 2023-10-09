@@ -8,8 +8,8 @@ import lombok.*;
 @Setter
 @Builder
 public class Education {
-    private int graduationYear;
+    private String graduationYear;
     private String schoolName;
     private String major;
-    private boolean isGraduated;
+    private String isGraduated;
 }

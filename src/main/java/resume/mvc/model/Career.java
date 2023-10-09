@@ -8,9 +8,8 @@ import lombok.*;
 @Setter
 @Builder
 public class Career {
-    private String name;
-    private String email;
-    private String address;
-    private String phone;
-    private String birthday;
+    private String workPeriod;
+    private String companyName;
+    private String assignedTask;
+    private String yearsOfService;
 }
