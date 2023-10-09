@@ -12,4 +12,5 @@ public class Career {
     private String companyName;
     private String assignedTask;
     private String yearsOfService;
+
 }
