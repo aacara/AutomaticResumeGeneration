@@ -8,8 +8,10 @@ import lombok.*;
 @Setter
 @Builder
 public class PersonInfo {
-    private String workPeriod;
-    private String companyName;
-    private String assignedTask;
-    private int yearsOfService;
+    private String photo;
+    private String name;
+    private String email;
+    private String address;
+    private String phone;
+    private String birthday;
 }
