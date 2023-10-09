@@ -11,5 +11,6 @@ public class Career {
     private String workPeriod;
     private String companyName;
     private String assignedTask;
-    private int yearsOfService;
+    private String yearsOfService;
+
 }
